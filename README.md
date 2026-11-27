@@ -3,7 +3,7 @@
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://data-pipeline-monitoring-dashboard.streamlit.app/)
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
   
-🔗 **Live Demo:** [data-pipeline-monitoring-dashboard.streamlit.app](https://data-pipeline-monitoring-dashboard.streamlit.app/)
+🔗 **Live Demo:** [data-pipeline-monitoring-dashboard.streamlit.app](https://data-pipeline-dashboard-dileepkumar.streamlit.app/)
 
 
 A **hands-on data engineering & monitoring project** built with **Python, Pandas, and Streamlit**.  
@@ -16,7 +16,7 @@ The goal is to **learn by doing** and practice how each part connects in a clear
 
 The app is deployed on **Streamlit Community Cloud** and publicly accessible here:
 
-👉 **[Launch the Dashboard](https://data-pipeline-monitoring-dashboard.streamlit.app/)**
+👉 **[Launch the Dashboard](https://data-pipeline-dashboard-dileepkumar.streamlit.app/)**
 
 ---
 
@@ -137,8 +137,5 @@ Then open the link shown in the terminal and:
 ---
 
 
-💬 Feel free to share feedback or ideas for improvement!
 
-- 💻 GitHub: [SleimaD](https://github.com/SleimaD)
-- 🔗 LinkedIn: [Sleima Ducros](https://linkedin.com/in/sleima-ducros)
 
